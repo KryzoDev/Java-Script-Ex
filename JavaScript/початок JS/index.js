@@ -1,0 +1,117 @@
+// 1. Змінна age
+// let age = 15;
+// console.log(age);
+
+// 2. Змінна name
+// let name = "Eldar";
+// console.log(name);
+
+// 3. Змінна isStudent
+// let isStudent = true;
+// console.log(isStudent);
+
+// 4. Змінна myString
+// let myString = "Найкращий спосіб передбачити майбутнє — це створити його.";
+// console.log(myString);
+
+// 5. Змінна myNumber
+// let myNumber = 5;
+// myNumber = myNumber + 10;
+// console.log(myNumber);
+
+// 6. Змінна myNull
+// let myNull = null;
+// console.log(myNull);
+
+// 7. prompt() + typeof
+// let userName = prompt("Введіть своє ім'я");
+// alert(userName);
+// console.log(typeof userName) ;
+
+// 8. confirm()
+// let userAnswer = confirm("Ви дійсно хочете покинути сторінку?");
+// console.log(userAnswer);
+
+// 9. alert() + confirm()
+// alert("Увага! Дія може бути небезпечною.");
+// let confirmAction = confirm("Ви впевнені, що хочете продовжити?");
+// if (confirmAction) {
+//   console.log("Дія підтверджена користувачем.");
+// } else {
+//   console.log("Дія скасована користувачем.");
+// }
+
+ //1 task
+// let a1 = 5 + 3;
+// let a2 = 5 - 3;
+// let a3 = 5 * 3;
+// let a4 = 5 / 3;
+
+// console.log(a1);
+// console.log(a2);
+// console.log(a3);
+// console.log(a4);
+
+
+//2 task
+// let a6 = 5 % 3;
+// let a7 = 3 % 5;
+// let a8 = 5 + '3';
+// let a9 = '5' + 3;
+// let a10 = 75 + 'кг';
+
+// alert(a6);
+// alert(a7);
+// alert(a8);
+// alert(a9);
+// alert(a10);
+
+//3 task
+// let min = 5;
+// let max = 10;
+
+// let randomFloat = Math.random() * (max - min) + min;
+// console.log(randomFloat);
+
+
+//4 task
+// let min = 1;
+// let max = 10;
+
+// let random = Math.floor(Math.random() * (max - min + 1)) + min;
+// console.log(random);
+
+//5 task
+// let k1 = parseInt("5px");
+// let k2 = parseInt("12djd334");
+// let k3 = parseInt("12.45asdwe12");
+// let k4 = parseInt("qwqweeewq");
+
+// console.log(k1);
+// console.log(k2);
+// console.log(k3);
+// console.log(k4);
+
+
+//6 task
+// let d1 = parseFloat("5px");
+// let d2 = parseFloat("12djd334");
+// let d3 = parseFloat("12.45asdwe12");
+// let d4 = parseFloat("qwqweeewq");
+
+// console.log(d1);
+// console.log(d2);
+// console.log(d3);
+// console.log(d4);
+
+
+//7 task
+// console.log(Math.max(2, 34, 99, 3, 22, 733, 18));
+
+// console.log(Math.min(2, 34, 99, 3, 22, 733, 18));
+
+//8 task
+// let random = Math.floor(Math.random() * (19 - 3 + 1)) + 3;
+
+// console.log(random);
+
